@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @KomelT
-- 👀 I’m interested in front-end & back-end & Wordpress development.
-- 🌱 I’m currently learning JavaScript and it's frameworks (Node.js, React).
-- 📫 You can reach me over email tilen(oh)komel10(at)gmail(dot)com and Instagram @tilen121.
-- You can see my portfolio on https://www.komelt.dev
+```bash
+[komelt@github.com]$ whoami
+Tilen Komel
