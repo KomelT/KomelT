@@ -1,3 +1,3 @@
 ```bash
-[komelt@github.com]$ whoami
+[komelt@github]$ whoami
 Tilen Komel
