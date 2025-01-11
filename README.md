@@ -3,5 +3,7 @@
 Name: Tilen Komel
 Location: Slovenia
 My fav os: Linux, Manjaro
+```
 
-More of my projects: https://gitplac.si/KomelT/
+More of my projects:
+ - [GitPlac](https://gitplac.si/KomelT/)
