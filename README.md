@@ -1,5 +1,7 @@
 ```bash
 [komelt@github]$ whoami
-Full name: Tilen Komel
+Name: Tilen Komel
 Location: Slovenia
-My fav os: Linux
+My fav os: Linux, Manjaro
+
+More of my projects: https://gitplac.si/KomelT/
